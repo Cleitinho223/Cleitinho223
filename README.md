@@ -8,4 +8,5 @@
 Cleitinho223/Cleitinho223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-git clone 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
+git clone
+git commit
